@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+  <img src="logo.svg" alt="Softidarity Code Collective" width="260">
+</picture>
+
 # Softidarity: the full list of values
 
 Forty-two values in five groups. This is the reference document, not the introduction: joining the

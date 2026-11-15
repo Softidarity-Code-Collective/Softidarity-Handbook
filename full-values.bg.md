@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+  <img src="logo.svg" alt="Softidarity Code Collective" width="260">
+</picture>
+
 # Softidarity: пълният списък с ценности
 
 Четирийсет и две ценности в пет групи. Това е референтният документ, а не въведението: за влизане в

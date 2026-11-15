@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+  <img src="logo.svg" alt="Softidarity Code Collective" width="260">
+</picture>
+
 # Softidarity: the five values
 
 Five values a new person needs to know on day one. Each of them gathers several more detailed ones,
@@ -79,7 +84,7 @@ Last updated: 15 November 2026
   helps nobody.
 - Trust in the motives, verification of the result. Checking is not distrust.
 - We see people as they are and we treat them with compassion even when we disagree.
-- We look for allies, not enemies. Performative identity is aesthetics, not progress.
+- We look for allies, not enemies. Performative identity is aesthetics, not politics.
 - We do not humiliate, we do not threaten and we do not use fear as a tool.
 - When someone harms another, the question is what we will repair, not who should be punished.
 - We stop to look back, and the work has to be enjoyable often enough that we are still here in a
