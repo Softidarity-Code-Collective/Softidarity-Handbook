@@ -9,8 +9,13 @@ rights and human rights. This repository holds the documents we work by.
 
 | File | What it is |
 |---|---|
-| [values.bg.md](values.bg.md) | Our values, the Bulgarian original |
-| [values.en.md](values.en.md) | The same values in English |
+| [values.bg.md](values.bg.md) | **The five values.** The onboarding document, read on day one. Bulgarian original |
+| [values.en.md](values.en.md) | The five values in English |
+| [full-values.bg.md](full-values.bg.md) | The full list of 42 values behind the five. Reference, Bulgarian original |
+| [full-values.en.md](full-values.en.md) | The full list in English |
+
+Start with the five. The full list is where each of them comes from, and it is for reference rather
+than for reading on the first day.
 
 ## How it changes
 
@@ -19,8 +24,8 @@ rights and human rights. This repository holds the documents we work by.
 - One commit per meaningful change, with a message saying what changed and why.
 - Any member can propose a change at any time. Changing the values requires agreement between
   members.
-- Twice a year each of us rereads the document and proposes at least one change or one deletion. A
-  list nobody argues with has become wallpaper.
+- The full list is reviewed once or twice a year, and each of us proposes at least one change or one
+  deletion. A list nobody argues with has become wallpaper.
 
 ## What does not belong here
 
@@ -42,8 +47,13 @@ Softidarity е колектив от разработчици, който пиш
 
 | Файл | Какво е |
 |---|---|
-| [values.bg.md](values.bg.md) | Ценностите ни, оригинал на български |
-| [values.en.md](values.en.md) | Същите ценности на английски |
+| [values.bg.md](values.bg.md) | **Петте ценности.** Документът за въвеждане, чете се от първия ден |
+| [values.en.md](values.en.md) | Петте ценности на английски |
+| [full-values.bg.md](full-values.bg.md) | Пълният списък от 42 ценности, които стоят зад петте |
+| [full-values.en.md](full-values.en.md) | Пълният списък на английски |
+
+Започва се от петте. Пълният списък е откъде идва всяка от тях и е за справка, а не за четене
+на първия ден.
 
 ## Как се променя
 
@@ -52,8 +62,8 @@ Softidarity е колектив от разработчици, който пиш
 - Един комит за една смислена промяна, със съобщение, което казва какво се променя и защо.
 - Всеки член може да предложи промяна по всяко време. Промяна в ценностите изисква съгласие между
   членовете.
-- Два пъти в годината всеки прочита документа и предлага поне една промяна или едно премахване.
-  Списък, който никой не оспорва, е станал тапет.
+- Пълният списък се преглежда веднъж или два пъти в годината и всеки предлага поне една промяна или
+  едно премахване. Списък, който никой не оспорва, е станал тапет.
 
 ## Какво не влиза тук
 
