@@ -123,7 +123,7 @@ Without this group the three above turn into a collective nobody wants to stay i
 - **Respect.** We see people as they are, in full, and we treat them with compassion even when we
   disagree.
 - **We look for allies, not enemies.** Performative identity is a trap: "we are punks, so we hate
-  hippies" and "we are anarchists, so we wind up patriots" are aesthetics rather than politics, and
+  hippies" and "we are left-wing, so we wind up right-wing people" are aesthetics rather than politics, and
   they win nobody except the approval of our own camp. Our values differ from those of most people,
   and the mature way is to let the other person understand our point of view, without judgement and
   without violence.
